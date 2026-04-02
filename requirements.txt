@@ -1,0 +1,10 @@
+PyQt5==5.15.7
+PyQt5-sip==12.11.0
+numpy==1.24.0
+pandas==1.5.2
+matplotlib==3.6.2
+scipy==1.9.3
+pyserial==3.5
+Pillow==9.3.0
+reportlab==3.6.12
+openpyxl==3.8.0
